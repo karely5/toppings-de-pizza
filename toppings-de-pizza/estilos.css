@@ -12,7 +12,7 @@ body{
     align-items: center;
     height: 100vh;
     text-align: center;
-    background: url(imagenes/pizza.jpg) no-repeat center center/cover;
+    background: url(./imagenes/pizza3.jpg) no-repeat center center/cover;
 }
 
 #contenedor{
